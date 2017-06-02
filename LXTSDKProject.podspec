@@ -14,8 +14,8 @@ Pod::Spec.new do |s|
 
   # git
   s.source = { :git => 'https://github.com/thinkma/LXTSDKProject.git', :tag => s.version }
-  s.public_header_files = 'LXTAPIServer/**/*.h'
-  s.source_files = 'LXTAPIServer/**/*.h'
-  s.vendored_libraries = 'LXTAPIServer/**/*.a'
-  s.resources = 'LXTAPIServer/**/*.bundle'
+  s.public_header_files = 'LXTSDKProject/**/*.h'
+  s.source_files = 'LXTSDKProject/**/*.h'
+  s.vendored_libraries = 'LXTSDKProject/**/*.a'
+  s.resources = 'LXTSDKProject/**/*.bundle'
   end
