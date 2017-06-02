@@ -4,7 +4,7 @@ Pod::Spec.new do |s|
   s.summary = '微语言 SDK.'
   s.license = 'MIT'
   s.authors = { "mawei" => "think_ma@126.com" }
-  s.homepage = 'http://http://www.4000669696.com/'
+  s.homepage = 'http://www.4000669696.com/'
   s.description = '微语言 SDK for iOS.'
   s.requires_arc = true
 
